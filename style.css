@@ -1,0 +1,85 @@
+.main{
+    text-align: center;
+    padding: 1px;
+}
+b{
+    color: black;
+}
+.abc{
+    color: black;
+}
+.first{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.second{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.third{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.four{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+
+
+.xyz{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-left: 130px;
+}
+
+
+
+.five{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.six{
+    background-color: rgb(240, 240, 236);
+    color: rgb(161, 78, 235);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.seven{
+    background-color: rgb(240, 240, 236);
+    color: rgb(161, 78, 235);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+.eight{
+    background-color: rgb(240, 240, 236);
+    color: rgb(32, 174, 65);
+    padding: 20px;
+    margin: 6px;
+    display: inline-block;
+}
+
+
+.xyz2{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-left: 130px;
+}
